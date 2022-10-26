@@ -40,3 +40,7 @@ def decode_word(str)
   end
   message
 end
+
+def decode(str)
+  message = []
+  
