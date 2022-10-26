@@ -49,3 +49,4 @@ def decode(str)
   message.join(' ')
 end
 
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
